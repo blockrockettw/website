@@ -1,0 +1,27 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+	Section Service
+-----------------------------------------------------------------*/
+
+
+/* ----------------------------------------------------------------
+	Section Service
+-----------------------------------------------------------------*/
+
+#section-service p{
+	margin-bottom: 20px;
+}
+#section-service i {
+	color: #59A4E8;
+}
+#section-service a i{
+	font-size: 20px;
+}
+
+
